@@ -1,0 +1,15 @@
+{
+  "id": "bfaa5306-3516-4b24-a135-b1093c1f935d",
+  "tourFile": "aNewTour.tour",
+  "title": "Switch case",
+  "description": "A New Tour",
+  "createdAt": "2024-09-04 14:15:38",
+  "steps": [
+    {
+      "title": "gradle.properties:22",
+      "description": "Su dung switch case thi su dung dong lenh nay",
+      "file": "gradle.properties",
+      "line": 22
+    }
+  ]
+}

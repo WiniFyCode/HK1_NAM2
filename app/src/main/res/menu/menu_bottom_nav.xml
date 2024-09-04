@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Tối đa 5 item -->
+    <item
+        android:id="@+id/menuA"
+        android:icon="@drawable/facebook"
+        android:visible="true"
+        android:title="Fragment A" />
+    <item
+        android:id="@+id/menuB"
+        android:icon="@drawable/toptop"
+        android:title="Fragment B" />
+    <item
+        android:id="@+id/menuC"
+        android:icon="@drawable/chrome"
+        android:title="Fragment C" />
+
+    <item
+        android:id="@+id/menuD"
+        android:icon="@drawable/pinterester"
+        android:title="Fragment D" />
+    <item
+        android:id="@+id/menuE"
+        android:icon="@drawable/instagram"
+        android:title="Fragment E" />
+
+</menu>
