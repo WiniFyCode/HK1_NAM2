@@ -13,29 +13,29 @@
         android:theme="@style/Theme.HK1_NAM2"
         tools:targetApi="31">
         <activity
-            android:name=".bottom_nav_layout"
+            android:name=".TabLayoutActivity"
             android:exported="true">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".bottom_nav_layout"
+            android:exported="true"></activity>
         <activity
             android:name=".ButtonNavigationViewActivity"
             android:exported="true">
-
-        </activity>
-        <activity
-            android:name=".FragmentActivity"
-            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".FragmentActivity"
+            android:exported="true"></activity>
         <activity
             android:name=".Recycle_view"
             android:exported="true" />

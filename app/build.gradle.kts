@@ -36,9 +36,9 @@ dependencies {
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
-    implementation("androidx.core:core-ktx:1.9.0")
     implementation(libs.constraintlayout)
     testImplementation(libs.junit)
+    implementation("androidx.core:core-ktx:1.9.0")
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
 }

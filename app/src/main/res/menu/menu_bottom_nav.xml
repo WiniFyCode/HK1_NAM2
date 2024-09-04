@@ -4,7 +4,6 @@
     <item
         android:id="@+id/menuA"
         android:icon="@drawable/facebook"
-        android:visible="true"
         android:title="Fragment A" />
     <item
         android:id="@+id/menuB"
